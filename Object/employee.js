@@ -25,6 +25,8 @@ for (const employee in employees) {
 }
 
 console.log("name :", name)
+console.log("name :", name)
+console.log("name :", name)
 console.log("age :", age)
 console.log("city :", city)
 console.log("state :", state)
